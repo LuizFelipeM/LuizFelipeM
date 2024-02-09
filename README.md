@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-  I'm Luiz Felipe from Brazil
+  I'm Luiz Felipe an brazilian developer!
   <br>- I'm working as IT Analyst at the investment bank BTG Pactual
   <br>- I'm pursuing my dream of working for a tech company outside my country
   <br>- I'm currently learning more about AI and Reinforcement Learning
