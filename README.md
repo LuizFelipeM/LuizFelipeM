@@ -17,7 +17,12 @@
 
 ###
 
-<p align="left">I'm Luiz Felipe from Brazil<br>- I'm working as IT Analyst at the investment bank BTG Pactual<br>- I'm pursuing my dream of working for a tech company outside my country<br>- I'm currently learning more about AI and Reinforcement Learning<br>- Sometimes I play some games to relax in my free time</p>
+<p align="left">
+  I'm Luiz Felipe from Brazil
+  <br>- I'm working as IT Analyst at the investment bank BTG Pactual
+  <br>- I'm pursuing my dream of working for a tech company outside my country
+  <br>- I'm currently learning more about AI and Reinforcement Learning
+</p>
 
 ###
 
