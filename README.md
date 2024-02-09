@@ -1,11 +1,27 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/luiz-felipe-moura-aa109012a/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="_plushfire_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="center">Hey there! 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 About me</h3>
+
+###
+
+<p align="left">I'm Luiz Felipe from Brazil<br>- I'm working as IT Analyst at the investment bank BTG Pactual<br>- I'm pursuing my dream of working for a tech company outside my country<br>- I'm currently learning more about AI and Reinforcement Learning<br>- Sometimes I play some games to relax in my free time</p>
+
+###
+
+<h3 align="left">💻 Technologies</h3>
 
 ###
 
@@ -16,54 +32,10 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<div align="center">
+  
+  | ⚙ Languages      | 🧰 Frameworks/Libraries | 🔧 Tools         |
+  |------------------|-------------------------|------------------|
+  | <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> | <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  /><img width="10" /><img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  /> |
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-###
-
-<h2 align="left">Frameworks/Libraries</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-</div>
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
-
-###
