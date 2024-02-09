@@ -26,16 +26,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeM&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipeM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   
   | ⚙ Languages      | 🧰 Frameworks/Libraries | 🔧 Tools         |
   |------------------|-------------------------|------------------|
   | <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /> | <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> | <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  /> |
 
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizFelipeM&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipeM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
