@@ -18,9 +18,9 @@
 ###
 
 <p align="left">
-  I'm Luiz Felipe an brazilian developer!
-  <br>- I'm working as IT Analyst at the investment bank BTG Pactual
-  <br>- I'm pursuing my dream of working for a tech company outside my country
+  I'm Luiz Felipe an brazilian Computer Engineer!
+  <br>- I'm working as Full Stack Developer at Velozient, contributing to the SmartVault developers team
+  <br>- I'm having my first—and honestly, fantastic—experience working in a multicultural team
   <br>- I'm currently learning more about AI and Reinforcement Learning
 </p>
 
@@ -34,7 +34,7 @@
   
   | ⚙ Languages      | 🧰 Frameworks/Libraries | 🔧 Tools         |
   |------------------|-------------------------|------------------|
-  | <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" /> | <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> | <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  /> |
+  | <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" /> | <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> | <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  /> |
 
 </div>
 
